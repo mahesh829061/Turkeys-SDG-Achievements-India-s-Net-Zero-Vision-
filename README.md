@@ -75,7 +75,7 @@ Sustainable-Progress-SDG-Analysis/
 ---
 
 ## 🗺️ Global SDG Growth (2005–2015)
-<img width="825" height="708" alt="image" src="https://github.com/user-attachments/assets/fa5e2863-b039-41a4-ab51-30a52720b051" />
+<img width="825" height="950" alt="image" src="https://github.com/user-attachments/assets/fa5e2863-b039-41a4-ab51-30a52720b051" />
 
 
 
