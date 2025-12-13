@@ -45,7 +45,7 @@ This project investigates whether **Turkey’s SDG growth model** can serve as a
 │   ├── Linear Regression Forecast of India's CO2 emissions (metric tons per capita) till 2030.png
 │   ├── Linear Regression Forecast of India's Renewable Energy Share till 2030.png
 │   ├── Top 10 Weakest SDG Indicators in Worst-Performing Cluster.png
-│   ├── Trend Analysis Top 10 Worst-Performing SDG Indicators (2005-2015).png
+│   ├── Trend Analysis Top 10 Worst-Performing SDG Indicators (2005–2015).png
 │   └── Visualizing the clusters.png
 │
 └── README.md
