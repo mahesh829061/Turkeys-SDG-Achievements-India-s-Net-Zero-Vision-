@@ -27,21 +27,29 @@ This project investigates whether **Turkey’s SDG growth model** can serve as a
 ## 📂 Repository Structure
 📁 Sustainable-Progress-SDG-Analysis
 │
-├── 📊 dataset.csv # SDG indicators dataset (2005–2015)
-├── 📓 SDG Achievements.ipynb # Data analysis & visualization notebook
-├── 📽️ SDG Achievements.pptx # Final presentation
-├── 📁 images/ # Project visualizations & graphs
-│ ├── Correlation Between SDG Indicators in 2nd Cluster.png
-│ ├── Correlation Between SDG Indicators in 3rd Cluster.png
-│ ├── Correlation Between SDG Indicators in best performing Cluster.png
-│ ├── Correlation Between SDG Indicators in worst-Performing Cluster.png
-│ ├── Heatmap to visualize no of countries which changed their clusters.png
-│ ├── Linear Regression Forecast of India's CO2 emissions (metric tons per capita) till 2030.png
-│ ├── Linear Regression Forecast of India's Renewable Energy Share till 2030.png
-│ ├── Top 10 Weakest SDG Indicators in Worst-Performing Cluster.png
-│ ├── Trend Analysis Top 10 Worst-Performing SDG Indicators (2005-2015).png
-│ └── Visualizing the clusters.png
+├── 📊 dataset.csv
+│   └── SDG indicators dataset (2005–2015)
+│
+├── 📓 SDG Achievements.ipynb
+│   └── Data preprocessing, clustering, visualization & forecasting
+│
+├── 📽️ SDG Achievements.pptx
+│   └── Final presentation summarizing insights
+│
+├── 📁 images/
+│   ├── Correlation Between SDG Indicators in 2nd Cluster.png
+│   ├── Correlation Between SDG Indicators in 3rd Cluster.png
+│   ├── Correlation Between SDG Indicators in best performing Cluster.png
+│   ├── Correlation Between SDG Indicators in worst-Performing Cluster.png
+│   ├── Heatmap to visualize no of countries which changed their clusters.png
+│   ├── Linear Regression Forecast of India's CO2 emissions (metric tons per capita) till 2030.png
+│   ├── Linear Regression Forecast of India's Renewable Energy Share till 2030.png
+│   ├── Top 10 Weakest SDG Indicators in Worst-Performing Cluster.png
+│   ├── Trend Analysis Top 10 Worst-Performing SDG Indicators (2005-2015).png
+│   └── Visualizing the clusters.png
+│
 └── README.md
+
 
 
 ---
@@ -81,7 +89,8 @@ This project investigates whether **Turkey’s SDG growth model** can serve as a
 ## 🇮🇳 India’s Net-Zero 2070 Analysis
 
 ### 🔴 Emission Forecast
-![India Emission Forecast](images/india_emission_forecast.png)
+![India Emission Forecast](<img width="1164" height="866" alt="Linear Regression Forecast of India&#39;s Renewable Energy Share till 2030" src="https://github.com/user-attachments/assets/5c864987-6bd5-4a57-a6de-be73f1c906ac" />
+.png)
 
 - Current trend shows **rising emissions**
 - Net-zero requires **flattening and reversal** of this curve
