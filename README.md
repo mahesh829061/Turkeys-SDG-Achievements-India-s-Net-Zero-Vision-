@@ -50,6 +50,25 @@ This project investigates whether **Turkey’s SDG growth model** can serve as a
 │
 └── README.md
 
+<pre>
+Sustainable-Progress-SDG-Analysis/
+├── dataset.csv
+├── SDG Achievements.ipynb
+├── SDG Achievements.pptx
+├── images/
+│   ├── Correlation Between SDG Indicators in 2nd Cluster.png
+│   ├── Correlation Between SDG Indicators in 3rd Cluster.png
+│   ├── Correlation Between SDG Indicators in best performing Cluster.png
+│   ├── Correlation Between SDG Indicators in worst-Performing Cluster.png
+│   ├── Heatmap to visualize no of countries which changed their clusters.png
+│   ├── Linear Regression Forecast of India's CO2 emissions till 2030.png
+│   ├── Linear Regression Forecast of India's Renewable Energy Share till 2030.png
+│   ├── Top 10 Weakest SDG Indicators in Worst-Performing Cluster.png
+│   ├── Trend Analysis Top 10 Worst-Performing SDG Indicators.png
+│   └── Visualizing the clusters.png
+└── README.md
+</pre>
+
 
 
 ---
