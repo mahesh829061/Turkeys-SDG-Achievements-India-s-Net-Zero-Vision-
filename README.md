@@ -83,7 +83,7 @@ Sustainable-Progress-SDG-Analysis/
 
 ---
 
-## 🇮🇳 India’s Net-Zero 2070 Analysis
+## India’s Net-Zero 2070 Analysis
 
 ### 🔴 Emission Forecast
 <img width="1064" height="832" alt="Linear Regression Forecast of India&#39;s Renewable Energy Share till 2030" src="https://github.com/user-attachments/assets/5c864987-6bd5-4a57-a6de-be73f1c906ac" />
