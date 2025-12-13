@@ -46,6 +46,69 @@ Sustainable-Progress-SDG-Analysis/
 </pre>
 
 
+---
+
+## 🔍 Methodology
+- **Data Cleaning & Preprocessing**
+- **K-Means Clustering** to group countries by SDG performance
+- **Correlation Analysis** within clusters
+- **Trend Analysis** of weakest SDG indicators
+- **Linear Regression Forecasting** for India (up to 2030)
+
+---
+
+## 📊 Key Visual Insights
+
+### 📌 Correlation Analysis by Cluster
+![Best Performing Cluster]
+<img width="1593" height="1320" alt="Correlation Between SDG Indicators in best performing Cluster" src="https://github.com/user-attachments/assets/5d3fbf1b-dcbf-418a-9955-7efc3cbb2c6d" />
+![Worst Performing Cluster]
+<img width="1561" height="1312" alt="Correlation Between SDG Indicators in worst-Performing Cluster" src="https://github.com/user-attachments/assets/6791be2e-5cad-4c87-8bcc-9382a907415f" />
+
+
+---
+
+### 📌 Weakest SDG Indicators
+![Weakest Indicators]
+<img width="1647" height="621" alt="Top 10 Weakest SDG Indicators in Worst-Performing Cluster" src="https://github.com/user-attachments/assets/52e8b792-5d67-4094-b83a-324722ea786e" />
+
+
+---
+
+### 📌 Cluster Transition Analysis
+![Cluster Heatmap]
+<img width="998" height="852" alt="Heatmap to visualize no of countries which changed their clusters" src="https://github.com/user-attachments/assets/afc2a13f-5b22-4e9d-963d-ee2a7dd4f642" />
+
+
+---
+
+### 📌 Forecasting India’s Sustainability Metrics
+**CO₂ Emissions Forecast**
+![CO2 Forecast]
+<img width="1333" height="892" alt="Linear Regression Forecast of India&#39;s CO2 emissions (metric tons per capita) till 2030" src="https://github.com/user-attachments/assets/134f8ed0-6f3a-4607-b054-1ecafd467c70" />
+
+**Renewable Energy Share Forecast**
+![Renewable Forecast]
+<img width="1164" height="866" alt="Linear Regression Forecast of India&#39;s Renewable Energy Share till 2030" src="https://github.com/user-attachments/assets/fc0899f9-626c-4c1e-b62c-8f5be877aa9f" />
+
+---
+
+## 🛠️ Tools & Technologies Used
+- **Python**
+- **Pandas, NumPy**
+- **Matplotlib, Seaborn**
+- **Scikit-learn**
+- **Jupyter Notebook**
+
+---
+
+## 📈 Key Findings
+- Significant disparity exists between best- and worst-performing country clusters
+- Strong correlations observed among education, health, and economic indicators
+- Several countries shifted clusters over time, indicating development progress or decline
+- India shows:
+  - Increasing CO₂ emissions trend
+  - Gradual improvement in renewable energy share
 
 ---
 
