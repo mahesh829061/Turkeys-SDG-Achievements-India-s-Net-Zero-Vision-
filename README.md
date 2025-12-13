@@ -80,17 +80,18 @@ This project investigates whether **Turkey’s SDG growth model** can serve as a
 ---
 
 ## 🗺️ Global SDG Growth (2005–2015)
-![World SDG Growth Map](images/world_sdg_growth_map.png)
+<img width="825" height="708" alt="image" src="https://github.com/user-attachments/assets/fa5e2863-b039-41a4-ab51-30a52720b051" />
 
-> Dark red regions indicate **high SDG progress**. Turkey stands out as the **top performer globally**.
+
+
+> Dark Red regions indicate **high SDG progress**. Turkey stands out as the **top performer globally**.
 
 ---
 
 ## 🇮🇳 India’s Net-Zero 2070 Analysis
 
 ### 🔴 Emission Forecast
-![India Emission Forecast](<img width="1164" height="866" alt="Linear Regression Forecast of India&#39;s Renewable Energy Share till 2030" src="https://github.com/user-attachments/assets/5c864987-6bd5-4a57-a6de-be73f1c906ac" />
-.png)
+<img width="1064" height="832" alt="Linear Regression Forecast of India&#39;s Renewable Energy Share till 2030" src="https://github.com/user-attachments/assets/5c864987-6bd5-4a57-a6de-be73f1c906ac" />
 
 - Current trend shows **rising emissions**
 - Net-zero requires **flattening and reversal** of this curve
@@ -107,7 +108,8 @@ This project investigates whether **Turkey’s SDG growth model** can serve as a
 ---
 
 ## ⚡ Renewable Energy Progress
-![Renewable vs Non-Renewable](images/renewable_vs_nonrenewable.png)
+<img width="885" height="445" alt="image" src="https://github.com/user-attachments/assets/7e4669cf-7692-48c2-981d-ec07a17265bc" />
+
 
 - Renewable capacity growing at **CAGR of 9.94% (2014–2024)**
 - Renewables consistently outpacing non-renewables
@@ -115,7 +117,8 @@ This project investigates whether **Turkey’s SDG growth model** can serve as a
 ---
 
 ## 🧭 Five Pillars to Achieve Net-Zero by 2070
-![Five Pillars](images/five_pillars_net_zero.png)
+<img width="1061" height="568" alt="image" src="https://github.com/user-attachments/assets/a477910b-942f-4d6c-b1a4-7988eb23e3e7" />
+
 
 1. **Low-Carbon Energy**
 2. **Green Mobility**
